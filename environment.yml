@@ -1,0 +1,11 @@
+name: plot-extractor
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - opencv
+  - tesseract
+  - pytesseract
+  - numpy
+  - matplotlib
+  - pip
