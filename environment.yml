@@ -9,3 +9,7 @@ dependencies:
   - numpy
   - matplotlib
   - pip
+  - transformers 
+  - datasets 
+  - torch 
+  - torchvision 
